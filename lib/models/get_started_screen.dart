@@ -82,7 +82,7 @@ class _LaunchScreenState extends State<LaunchScreen> {
       backgroundColor: const Color(0xFFF7CE5B),
       body: Column(children: [
         Container(
-          transform: Matrix4.translationValues(0.0, 15, -100.0),
+          transform: Matrix4.translationValues(0.0, 10, -100.0),
             height: MediaQuery.of(context).size.height / 1.75,
             width: MediaQuery.of(context).size.width * 1,
             decoration: const BoxDecoration(
