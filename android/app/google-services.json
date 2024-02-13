@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "635803271787",
+    "project_id": "chat-craze-34eca",
+    "storage_bucket": "chat-craze-34eca.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:635803271787:android:d0b59bafd0a2290687672e",
+        "android_client_info": {
+          "package_name": "com.example.chat_craze"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAVitAPsyG2k8DIxYndfCF5Zn49QxNUSds"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
